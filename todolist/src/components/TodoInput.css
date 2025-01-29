@@ -1,0 +1,15 @@
+.input-container {
+    margin: 10px auto;
+  }
+  
+  .task-input {
+    padding: 10px;
+    border: 2px solid #6200ea;
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  .task-input:focus {
+    box-shadow: 0 0 5px #6200ea;
+  }
+  
