@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-
+import './Home.css'
 const mockMovies = [
   { id: 1, title: "Inception", year: 2010, poster: "https://via.placeholder.com/150" },
   { id: 2, title: "Interstellar", year: 2014, poster: "https://via.placeholder.com/150" },
